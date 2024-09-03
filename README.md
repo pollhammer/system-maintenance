@@ -4,3 +4,7 @@ Dieses Batch-Skript ist ein umfassendes Systemwartungstool für Windows. Es biet
 
 **EN** <br>
 This batch script is a comprehensive system maintenance tool for Windows. It offers a variety of functions to enhance system performance and stability. Features include deleting temporary files, emptying the recycle bin, checking the system drive for errors, disabling startup programs, checking network connectivity, displaying disk usage, flushing the DNS cache, checking for Windows updates, and exporting a list of installed programs. The script is ideal for regular maintenance and optimization of a Windows PC.
+
+![Alternativer Text](https://github.com/pollhammer/system-maintenance/blob/main/screenshots/menu.png)
+![Alternativer Text](https://github.com/pollhammer/system-maintenance/blob/main/screenshots/code.png)
+![Alternativer Text](https://github.com/pollhammer/system-maintenance/blob/main/screenshots/code2.png)

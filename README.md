@@ -1,3 +1,4 @@
+# system-maintenance
 **DE** <br>
 Dieses Batch-Skript ist ein umfassendes Systemwartungstool für Windows. Es bietet eine Vielzahl von Funktionen, um die Leistung und Stabilität des Systems zu verbessern. Zu den Funktionen gehören das Löschen temporärer Dateien, das Leeren des Papierkorbs, das Überprüfen des Systemlaufwerks auf Fehler, das Deaktivieren von Autostart-Programmen, das Überprüfen der Netzwerkverbindung, das Anzeigen der Festplattenbelegung, das Leeren des DNS-Caches, das Überprüfen auf Windows-Updates und das Exportieren einer Liste installierter Programme. Das Skript ist ideal für die regelmäßige Wartung und Optimierung eines Windows-PCs.
 
